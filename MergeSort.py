@@ -21,6 +21,6 @@ def mergeSort(lst):
             lst[i]=right[r]
             r += 1
 
-ls = [0,2,13,3,0,1]
+ls = [0,2,13,3,0,1,5]
 mergeSort(ls)
 print(ls)
